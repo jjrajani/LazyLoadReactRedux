@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{35:function(e,n,t){},36:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a);t(35);n.default=function(){return r.a.createElement("div",{id:"home_inner_two"},r.a.createElement("h2",null,"Triple Layer Lazy Load"),r.a.createElement("h4",null,"Level 3"))}}}]);
